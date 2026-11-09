@@ -1,0 +1,20 @@
+/* Módulo visual compartilhado das telas de autenticação */
+.intro-panel { position: relative; display: flex; min-width: 0; flex-direction: column; justify-content: space-between; overflow: hidden; padding: 42px 48px 24px; background: linear-gradient(135deg, var(--surface-container-low), var(--surface-container) 70%, rgb(172 244 164 / 20%)); }
+.intro-glow { position: absolute; width: 230px; height: 230px; border-radius: 50%; filter: blur(60px); pointer-events: none; }
+.intro-glow-top { top: -110px; left: -100px; background: rgb(163 246 156 / 35%); }
+.intro-glow-bottom { right: -125px; bottom: 35px; background: rgb(172 244 164 / 35%); }
+.intro-copy, .illustration-wrap, .intro-footnote { position: relative; z-index: 1; }
+.intro-copy h2 { max-width: 470px; margin: 0; color: var(--on-surface); font-size: clamp(32px, 3.2vw, 40px); font-weight: 700; letter-spacing: -.03em; line-height: 1.18; }
+.intro-description { max-width: 445px; margin: 13px 0 0; color: var(--on-surface-variant); font-size: calc(14px * var(--font-scale, 1)); line-height: 1.65; }
+.illustration-wrap { display: grid; min-height: 220px; flex: 1; place-items: center; margin: 24px 0; }
+.illustration-wrap img { width: min(100%, 420px); max-height: 330px; object-fit: contain; }
+.intro-footnote { display: flex; align-items: center; gap: 9px; padding-top: 16px; border-top: 1px solid rgb(112 122 108 / 24%); color: var(--on-surface-variant); font-size: calc(11px * var(--font-scale, 1)); }
+.intro-footnote .material-symbols-outlined { color: var(--primary); font-size: 19px; }
+
+@media (max-width: 900px) {
+    .intro-panel { padding: 34px 30px 22px; }
+}
+
+@media (max-width: 700px) {
+    .intro-panel { display: none; }
+}

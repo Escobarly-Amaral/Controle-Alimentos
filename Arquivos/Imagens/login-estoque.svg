@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 350" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Alimentos escolares e controle de estoque</title>
+  <desc id="desc">Ilustração de uma caixa com folhas, frutas e uma prancheta.</desc>
+  <ellipse cx="261" cy="318" rx="203" ry="17" fill="#C9D5C7" opacity=".6"/>
+  <path d="M77 208h231l-18 105H95L77 208Z" fill="#D5A66F"/>
+  <path d="M77 208h231l-13 19H90l-13-19Z" fill="#BE8756"/>
+  <path d="m104 238 12 75m36-75 6 75m39-75v75m38-75-6 75m37-75-12 75" stroke="#B77E4F" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+  <path d="M107 204c-7-30 10-53 37-56 22-3 41 11 42 33-22 16-48 24-79 23Z" fill="#4F9A58"/>
+  <path d="M144 201c-4-32 14-57 42-59 21-1 38 15 38 36-22 15-49 23-80 23Z" fill="#78B86B"/>
+  <path d="M142 201c4-17 17-33 32-45m12 45c-2-19 4-36 19-48" stroke="#D7EACB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M192 203c-6-27 5-48 28-53 20-4 37 8 40 27-19 16-42 25-68 26Z" fill="#338348"/>
+  <path d="M239 204c-3-23 10-40 31-41 17-1 30 11 30 27-17 11-37 16-61 14Z" fill="#9ACB77"/>
+  <path d="M239 203c5-13 15-23 29-31" stroke="#E1F0CF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="127" cy="191" r="28" fill="#E8A247"/><circle cx="127" cy="191" r="19" fill="#F4BC65"/>
+  <path d="M127 171c-1-9 4-15 12-17" stroke="#438749" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="218" cy="180" r="26" fill="#C94E42"/><circle cx="218" cy="180" r="18" fill="#E46956"/>
+  <path d="M218 154c-1-7 3-12 10-14m-9 14c-7-7-13-7-18-3" stroke="#438749" stroke-width="4" stroke-linecap="round"/>
+  <path d="M313 93a12 12 0 0 1 12-12h117a12 12 0 0 1 12 12v189a12 12 0 0 1-12 12H325a12 12 0 0 1-12-12V93Z" fill="#fff" stroke="#D8E0D7" stroke-width="3"/>
+  <path d="M339 110h89M339 142h65M339 174h89" stroke="#DDE3DC" stroke-width="7" stroke-linecap="round"/>
+  <path d="m341 210 8 8 16-18" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M380 211h48" stroke="#C7D8C7" stroke-width="7" stroke-linecap="round"/>
+  <path d="m341 246 8 8 16-18" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M380 247h39" stroke="#C7D8C7" stroke-width="7" stroke-linecap="round"/>
+  <path d="M357 80v-9c0-10 8-18 18-18h24c10 0 18 8 18 18v9" stroke="#B9C8B8" stroke-width="7"/>
+  <path d="M332 298h-15m147 0h-15" stroke="#718B71" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="82" cy="118" r="8" fill="#8BB77B"/><circle cx="436" cy="58" r="6" fill="#D5A66F"/><circle cx="389" cy="319" r="7" fill="#8BB77B"/>
+</svg>
